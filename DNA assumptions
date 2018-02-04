@@ -1,0 +1,16 @@
+Analyze DNA sequence
+
+//create body with just nucleic acids
+represent nucleic acids as 2 bits
+4 nucleic acids(A,T,C,G) per byte
+A = 00
+T = 01
+C = 10
+G = 11
+
+//alternative DNA feature
+poly-A tail = Number of A/T
+
+//analysis feature
+identify primers
+search for DNA sequences
